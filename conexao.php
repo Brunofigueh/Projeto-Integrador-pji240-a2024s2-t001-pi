@@ -1,8 +1,8 @@
 <?php
 
-    $servidor = 'localhost'; // ou o endereço do seu servidor de banco de dados
-    $usuario = 'root'; // seu usuário do MySQL
-    $senha = ''; // sua senha do MySQL
+    $servidor = 'izm96dhhnwr2ieg0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'; // ou o endereço do seu servidor de banco de dados
+    $usuario = 'hov9byvj7u6tdy6x'; // seu usuário do MySQL
+    $senha = 'yd785ippneanbe8w'; // sua senha do MySQL
     $dbname = 'cadastro'; // o nome do seu banco de dados
 
     // Cria a conexão

@@ -7,9 +7,9 @@ import mysql.connector
 
 # Configurações do banco de dados
 config = {
-    'user': 'seu_usuario',
-    'password': 'sua_senha',
-    'host': 'localhost',
+    'user': 'hov9byvj7u6tdy6x',
+    'password': 'yd785ippneanbe8w',
+    'host': 'izm96dhhnwr2ieg0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
     'database': 'seu_banco_de_dados',
 }
 
