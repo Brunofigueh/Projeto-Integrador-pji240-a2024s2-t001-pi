@@ -179,7 +179,7 @@
     $municipio = $_POST['municipio'];
     $descricao = $_POST['descricao'];
 
-    $sql = "INSERT INTO mrrrh8fsanxe85db (nome, email, cep, rua, bairro, cidade, uf, municipio, descricao)
+    $sql = "INSERT INTO denuncias (nome, email, cep, rua, bairro, cidade, uf, municipio, descricao)
             VALUES ('$nome', '$email', '$cep', '$rua', '$bairro', '$cidade', '$uf', '$municipio', '$descricao')";
 
     if (mysqli_query($conexao, $sql)) {
